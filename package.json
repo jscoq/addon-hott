@@ -1,0 +1,11 @@
+{
+    "name": "@jscoq/HoTT",
+    "description": "Homotopy Type Theory for jsCoq",
+    "version": "0.17.0",
+    "files": ["README.md", "coq-pkgs"],    
+    "repository": {
+        "type": "git",
+        "url": "github:jscoq/addon-hott"
+    },
+    "license": "AGPL-3.0-or-later"
+}
